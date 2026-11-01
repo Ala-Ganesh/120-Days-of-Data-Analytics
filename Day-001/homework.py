@@ -26,6 +26,7 @@ print('Python: ', 95)
 print('Basics: ', 50)
 print('intermediate: ', 60)
 print('Advanced: ', 35)
+print('Certification: ', "Processing")
 print()
 #-----------------------------------------------------
 #Task 4: Salary Calculation.
