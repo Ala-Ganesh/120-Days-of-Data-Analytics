@@ -14,8 +14,8 @@ Machine Learning, Deep Learning, and AI.
 
 | Day | Topic | Status |
 |---|---|---|
-| 001 | Python Programming Foundations | In Progress |
-| 002 | Variables and Assigning Values | Not Started |
+| 001 | Python Programming Foundations | 1st November 2026 |
+| 002 | Variables and Assigning Values | 2nd November 2026 |
 
 ## Learning Method
 
