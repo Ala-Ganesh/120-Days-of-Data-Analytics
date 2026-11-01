@@ -8,6 +8,5 @@
 - Python is case-sensitive.
 
 ## Examples
-```python
+
 print("Hello, Data Science!")
-print(10 + 5)
