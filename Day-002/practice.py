@@ -35,4 +35,4 @@ average_marks = total_marks/2
 print(f"Student_name: {student_name}")
 print(f"Python Marks: {python_marks}")
 print(f"SQL Marks: {sql_marks}")
-print(f"Average: {averag_marks}")
+print(f"Average: {average_marks}")
