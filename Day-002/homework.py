@@ -3,20 +3,20 @@
 name = 'Ala Ganesh'
 course = "MSc in DataScience"
 graduation_year = 2026
-Goal = 'Data Scientist'
+goal = 'Data Scientist'
 print(name)
 print(course)
 print(graduation_year)
-print(Goal)
+print(goal)
 print()
 #----------------------------------
 #Task2
 number1 = 250
 number2 = 750
-sum = number1 + number2
+add = number1 + number2
 dif = number1 - number2
 prod = number1 * number2
-print(sum)
+print(add)
 print(dif)
 print(prod)
 print()
@@ -26,9 +26,9 @@ python_marks = 95
 sql_marks = 92
 certification  = 100
 total_marks = python_marks + sql_marks + certification
-average = total_marks/3
+average_marks = total_marks/3
 print(total_marks)
-print(average)
+print(average_marks)
 print()
 #-----------------------------------
 #Task4
@@ -44,3 +44,21 @@ print(coding_confidence)
 coding_confidence = 5
 print(coding_confidence)
 print()
+#------------------------------
+#Coding Challenge
+employee_name = "Ganesh"
+basic_salary = 30000
+bonus = 5000
+expenses = 10000
+print(employee_name)
+print(basic_salary)
+print(bonus)
+print(basic_salary + bonus)
+final_savings = basic_salary + bonus - expenses
+print(final_savings)
+print("Using f-strings: ")
+print(f"employee_name is : {employee_name}")
+print(f"Basic Salary is: {basic_salary}")
+print(f"Bonus: {bonus}")
+print(f"Total Salary is: {basic_salary + bonus}")
+print(f"Fianl Savings: {final_savings}")

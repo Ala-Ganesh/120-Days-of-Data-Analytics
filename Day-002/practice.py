@@ -20,8 +20,8 @@ print()
 
 name = 'Ala Ganesh'
 age = 23
-print('My name is',name,'.')
-print('My age is ', age, 'Years Old.')
+print("My name is ",name)
+print("My age is ", age, "Years Old.")
 print("f-Strings: ")
 print(f"My name is {name}")
 print(f"and I am {age} Years Old")
@@ -30,7 +30,7 @@ print()
 student_name = "Ala Ganesh"
 python_marks = 90
 sql_marks = 95
-total_marks = python_marks+sql_marks
+total_marks = python_marks + sql_marks
 average = total_marks/2
 print(f"Student_name: {student_name}")
 print(f"Python Marks: {python_marks}")
