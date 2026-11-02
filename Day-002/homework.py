@@ -13,10 +13,10 @@ print()
 #Task2
 number1 = 250
 number2 = 750
-add = number1 + number2
+total = number1 + number2
 dif = number1 - number2
 prod = number1 * number2
-print(add)
+print(total)
 print(dif)
 print(prod)
 print()
@@ -61,4 +61,4 @@ print(f"employee_name is : {employee_name}")
 print(f"Basic Salary is: {basic_salary}")
 print(f"Bonus: {bonus}")
 print(f"Total Salary is: {basic_salary + bonus}")
-print(f"Fianl Savings: {final_savings}")
+print(f"Final Savings: {final_savings}")
