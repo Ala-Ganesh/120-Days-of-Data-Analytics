@@ -9,4 +9,3 @@ percentage = total_marks / 3
 print("Student Name: ", name)
 print("Marks are: ", total_marks)
 print("Percentage is : ", percentage)
-print(17%5)
