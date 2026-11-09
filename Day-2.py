@@ -26,7 +26,7 @@ print(maths >= 50 and science >= 40)
 print("OR")
 maths = 88
 englsih = 95
-print(maths >= 60 or englsih >= 70)
+print(maths >= 60 or english >= 70)
 print("NOT")
 social = 85
 hindi = 75
