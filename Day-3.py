@@ -125,7 +125,7 @@ mark2 = int(input("Enter Student 2 Marks: "))
 mark3 = int(input("Enter Student 3 Marks: "))
 mark4 = int(input("Enter Student 4 Marks: "))
 mark5 = int(input("Enter Student 5 Marks: "))
-
+  
 total = mark1 + mark2 + mark3 + mark4 + mark5
 
 average = total / 5
