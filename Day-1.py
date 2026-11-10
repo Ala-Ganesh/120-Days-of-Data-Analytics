@@ -58,8 +58,8 @@ print(type(age))
 #Arithmetic Operators
 a = 10
 b = 20
-print("Addition: ", a+b)
-print("Subraction: ", a-b)
+print("Addition: ", a+b) 
+print("Subtraction: ", a-b)
 print("Multiplication: ", a*b)
 print("Division: ", a/b)
 print("Floor Division: ", a//b)
@@ -76,4 +76,4 @@ total_marks = english + maths + science
 percentage = total_marks / 3
 print("Student Name: ", name)
 print("Marks are: ", total_marks)
-print("Percentage is : ", percentage)
+print("Percentage:", round(percentage, 2))

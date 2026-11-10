@@ -34,7 +34,7 @@ print("----------------------")
 
 print("Practical Examples")
 for i in range(1,6):
-    marks = int(input("Enter any Number: "))
+    marks = int(input("Enter Student Marks: "))
     print("Student:", i, "Marks: ", marks)
 print()
 
@@ -56,7 +56,7 @@ while attempts < 3:
         attempts = attempts + 1
 
 if attempts == 3:
-    print("Your Account has been Temporarly Locked")
+    print("Your Account has been Temporarily Locked")
 print("-------------------------------------------------")
 
 print("Practical Assignment")

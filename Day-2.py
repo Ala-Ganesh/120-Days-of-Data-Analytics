@@ -25,7 +25,7 @@ science = 85
 print(maths >= 50 and science >= 40)
 print("OR")
 maths = 88
-englsih = 95
+english = 95
 print(maths >= 60 or english >= 70)
 print("NOT")
 social = 85
@@ -161,7 +161,7 @@ if age >= 18:
     else: 
         print("Degree Required")
 else:
-    print("Not Eligible due to age is Lessthan 18.")
+    print("Not eligible because age is below 18.")
 print()
 
 print("ATM Withdrawal")
