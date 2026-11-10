@@ -93,10 +93,10 @@ else:
     print("Not Eligible to Vote")
 print()
 
-print("Postive or Negative Number")
+print("Positive or Negative Number")
 number = -10
 if number >= 0:
-    print("Postive")
+    print("Positive")
 else:
     print("Negative")
 print("--------------------------------")
@@ -132,7 +132,7 @@ print()
 print("Number Checker")
 number = 0
 if number > 0:
-    print("Postive")
+    print("Positive")
 elif number < 0:
     print("Negative")
 else:
@@ -187,7 +187,7 @@ print("Student name is: ",name)
 print("Math Marks is: ", math)
 print("Social Studies Marks is: ", socsci)
 print("General Knowledge is: ", gk)
-print("Total Gainede Marks = ", total_marks)
+print("Total Marks Obtained = ", total_marks)
 print("Percentage: ", percentage)
 if math >= 40 and socsci >= 40 and gk >= 40:
     print("Pass")
