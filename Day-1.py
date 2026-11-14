@@ -5,7 +5,7 @@ print("Day-1: Python Fundamentals")
 print("Hello World!")
 print("My name is Ala Ganesh")
 print("I'm learning Python")
-print("My career goal is Data Analyst")
+print("My career goal is Python Full Stack Developer")
 #---------------------------------------
 
 #Variables
