@@ -1,4 +1,4 @@
-#Python Fundamentals
+print("Day-1: Python Fundamentals")
 #---------------------
 #Intro to Python
 

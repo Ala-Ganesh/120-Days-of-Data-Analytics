@@ -1,4 +1,4 @@
-print("Comparison Operators")
+print("Day-2: Comparison Operators")
 a = 20
 b = 10
 print(a == b)
